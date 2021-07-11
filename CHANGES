@@ -1,3 +1,5 @@
+1.1.0 2021-07-11
+  - Added remaining subjects
 0.0.1  Initial data acquired
 NOTES:
 	- 7.1.20 defaced data placed (and renamed to T1w) in anat directories from data/extra/T1w_defaced for OpenNeuro upload and non-defaced put in data/extra/T1w_nondefaced
